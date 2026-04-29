@@ -1,6 +1,6 @@
 export default function Featured() {
   return (
-    <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center min-h-screen px-6 py-12 lg:py-0 bg-white">
+    <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center min-h-screen px-6 py-12 lg:py-0 bg-red-900">
       <div className="flex-1 h-[400px] lg:h-[800px] mb-8 lg:mb-0 lg:order-2">
         <img
           src="https://cdn.poehali.dev/projects/fde83c03-8201-46b0-be91-060df6ad6a1d/files/d99a5a0b-feee-487e-9a32-4f5745035b91.jpg"
